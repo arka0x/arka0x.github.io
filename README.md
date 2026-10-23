@@ -1,5 +1,5 @@
 # Arka Dutta
-### Systems Engineer · Solutions Architecture · AI × Telecom
+### Solutions Consultant | TMT
 
 **I work at the intersection of cloud-native infrastructure, telecom systems, and emerging AI.** My experience spans systems integration, Kubernetes-based CNF/VNF platforms, customer-facing technical delivery, automation, and GenAI–Telco solution exploration.
 
