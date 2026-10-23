@@ -1,7 +1,7 @@
 # Arka Dutta
 ### Systems Generalist · Solutions Consultant · Gonzo Essayist
 
-*Making sense of complex systems, technological and otherwise.*
+*Making sense of complex systems and wicked problems*
 
 ---
 
@@ -33,27 +33,11 @@ Looking beyond individual components to understand the relationships, incentives
 
 My professional identity doesn't fit neatly inside a job description.
 
-I'm interested in product management because technology needs direction. In consulting because difficult problems rarely respect organizational boundaries. In entrepreneurship because sometimes the most interesting response to a problem is to build something yourself.
+I'm interested in product management because technology needs direction, in consulting because difficult problems rarely respect organizational boundaries, in entrepreneurship because sometimes the most interesting response to a problem is to build something yourself.
 
 And in writing because the world is too strange to be understood exclusively through dashboards, architecture diagrams, and quarterly business reviews.
 
-Long-term, I'd like to build **Système D**: an independent, interdisciplinary venture for tackling difficult problems with technical competence, intellectual curiosity, and an allergy to conventional thinking.
-
 For now, consider this an ongoing experiment in becoming a better systems generalist.
-
-## Ultrapmodernism, Gonzo, and Other Dangerous Ideas
-
-I have a particular fondness for ideas that refuse to stay in their assigned departments.
-
-My philosophical project, which I call *ultramodernism*, begins with a simple proposition: the Enlightenment was an unfinished project, not a historical phase we need to apologize for.
-
-I believe in materialism, scientific fallibilism, rational inquiry, and the freedom to change one's mind when reality refuses to cooperate. I admire the liberal tradition of individual liberty, the irreverence of absurdism, the pleasures of Epicurean living, and the possibility that a sufficiently curious life can be both intellectually serious and gloriously ridiculous.
-
-My ideal is neither the joyless technocrat nor the romantic reactionary. It is the scientifically literate individualist: skeptical without becoming cynical, ambitious without becoming servile, and rational without forgetting that human beings are also creatures of appetite, imagination, and absurdity.
-
-Politically, this points toward a neo-classical liberalism: an attempt to advance liberty and the Enlightenment rather than retreat into authoritarian nostalgia or the idea that truth is merely a matter of perspective.
-
-Culturally, I'm interested in what happens when we stop treating respectable convention as the final authority on how to live.
 
 **Gonzo is my preferred method of investigation.** Get close to the action. Question the official account. Follow the evidence, including when it becomes inconvenient. Acknowledge the observer's own biases, appetites, and absurdities. Write as though the world is happening to you, because it is.
 
@@ -93,8 +77,8 @@ That seems like a reasonable place to start.
 
 ## Education & Credentials
 
-**National Institute of Technology Agartala**  
-B.Tech in Electronics and Communication Engineering.
+**NIT Agartala**  
+B.Tech in Electronics Engineering.
 
 **Professional credentials**  
 Certified Kubernetes Administrator (CKA), with experience in cloud-native infrastructure, telecom systems integration, and technical delivery.
@@ -110,4 +94,3 @@ The internet, books, experimentation, conversations, mistakes, and an unreasonab
 
 *This is a placeholder, a work in progress, and an invitation to follow the rabbit hole. More essays, projects, ideas, and experiments will find their way here.*
 
-*Stay curious. Think independently. Don't confuse the map for the territory.*
