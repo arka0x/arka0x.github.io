@@ -97,4 +97,4 @@ I’m open to conversations about systems engineering, cloud-native telecom, sol
 
 ---
 
-<sub>This page is a living professional profile. Check project details, metrics, certification dates, links, and confidentiality before publication.</sub>
+<sub>This page is a living professional profile..</sub>
